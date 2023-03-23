@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+span p{
+    text-align: center;
+    text-decoration: underline;
+}
+.text h3{
+    text-align: center;
+    margin: 15px;
+}
+
+.box img{
+    width: 300px;
+}
+.boxes{
+    display: flex;
+}
+.para a{
+    text-decoration: none;
+    color: #000;
+}
+.box{
+    border: 2px solid black;
+    margin: 5px;
+    border-radius: 2px;
+    
+}
+.para{
+    padding: 10px;
+}
+.button{
+    text-align: center;
+    margin: 20px;
+}
+.button a{
+    text-decoration: none;
+    background-color: green;
+    color: #fff;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 2px;
+}
